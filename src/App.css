@@ -104,7 +104,7 @@ input {
 }
 
 .sendBtn {
-  background-color: #282c34;
+  background-color: rgb(72, 63, 109);
   /* Green */
   border: none;
   color: white;
