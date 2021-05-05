@@ -16,7 +16,7 @@ function SignIn() {
         <div className="signIn">
             <h2>🔥React ChatApp</h2>
            
-            <button onClick={signWithGoogle} className="sign-in-button"><span className="head">  
+            <button onClick={signWithGoogle} className="sign-in-button sign-button"><span className="head">  
             <img src="https://img.icons8.com/color/35/000000/google-logo.png"/><span className="head-span-sign">Sign In With Google</span></span></button>
         </div>
     )
